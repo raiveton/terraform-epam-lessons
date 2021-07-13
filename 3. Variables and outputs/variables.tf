@@ -10,3 +10,5 @@ variable "counts" {
  default = 1
  type = number   
 }
+variable "subnet_id" {
+}
